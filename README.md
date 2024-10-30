@@ -10,6 +10,9 @@ I am currently 18 years old and I am pursuing a higher degree in cross-platform 
 
 🤔 I’m looking for help with JAVA.
 
+<br><br><br>
+<img src="./assets/divisor.gif" alt="Smiley face" width="2000" height="10" align="center">
+
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">  
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
@@ -26,3 +29,5 @@ I am currently 18 years old and I am pursuing a higher degree in cross-platform 
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
+
+<img src="./assets/divisor.gif" alt="Smiley face" width="2000" height="10" align="center">
