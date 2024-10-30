@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/img/title-name.png" alt="Jorge Bech Castillo" />
+  <img src="./assets/title-name.png" alt="Jorge Bech Castillo" />
 </div>
 
 
