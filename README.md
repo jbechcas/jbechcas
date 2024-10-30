@@ -2,8 +2,11 @@
   <img src="./assets/title-name.png" alt="Jorge Bech Castillo" />
 </div>
 
+<div align="center">
+  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 ### Hi there 👋! I'm Jorge Bech Castillo
 
 
